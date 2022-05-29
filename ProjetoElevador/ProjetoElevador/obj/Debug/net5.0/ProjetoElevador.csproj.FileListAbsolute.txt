@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\refint\ProjetoElevador.dll
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\DevProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
